@@ -9,3 +9,7 @@ Modified qmk configurations. Each keyboard configuration should contain the QMK 
 KBDFans Maja
 
 ![Maja](/maja/maja_layout.png)
+
+KBDFans KBD8x Mk2
+
+![KDB8x](/kbd8x/kbd8x_layout.png)
